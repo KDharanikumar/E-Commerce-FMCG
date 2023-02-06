@@ -1,0 +1,256 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+* {
+  list-style: none;
+  font-family: "Poppins";
+}
+
+a {
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.nav-item {
+  margin: 20px 80px 0px 0px;
+}
+
+/************************************************************ BANNER ************************************************************/
+
+.sf-banner {
+  height: 300px;
+  object-fit: cover;
+  margin: 30px 0px 30px 0px;
+}
+
+/************************************************************ BANNER ************************************************************/
+
+.sf-homebanner {
+  height: 500px;
+  object-fit: cover;
+  margin: 30px 0px 30px 0px;
+}
+
+/************************************************************ SEARCH ************************************************************/
+
+.sf-search {
+  width: 250px;
+  height: 40px;
+  border-radius: 5px;
+  border-style: none;
+  background-color: rgb(241, 245, 248);
+  padding: 20px;
+}
+
+/************************************************************ BUTTON ************************************************************/
+
+.sf-button {
+  background-color: #119744;
+  color: #fff;
+  border-radius: 5px;
+  border: none;
+  text-align: center;
+  height: 40px;
+  width: 250px;
+  margin-bottom: 20px;
+}
+
+/************************************************************ LOGIN ************************************************************/
+
+.sf-signin-img {
+  border-radius: 10px;
+  height: 60vh;
+  width: 400px;
+  object-fit: cover;
+}
+
+/*************************************************************FORGOT PASSWORD***********************************************************/
+
+.fl-forgotpassword-card {
+  margin: auto;
+  width: 600px;
+  padding: 25px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border: #fff;
+}
+
+/*************************************************************ABOUT US*************************************************************/
+
+.sf-about-img {
+  border-radius: 10px;
+  width: 80%;
+  height: 50vh;
+  object-fit: fill;
+}
+
+.sf-icons {
+  height: 50px;
+  width: 50px;
+}
+
+.sf-team-img {
+  width: 250px;
+  height: 300px;
+  border-radius: 10px;
+}
+
+/*************************************************************CONTACT*************************************************************/
+
+.sf-contact-addresscard {
+  height: 250px;
+  width: 350px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border: #fff;
+}
+
+.sf-contact-addresscard:hover {
+  background-color: #119744;
+  transition: 0.8s;
+  color: #fff;
+}
+
+.sf-contact-icon {
+  color: #119744;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  background-color: aqua;
+}
+
+.sf-form-topic {
+  color: #119744;
+}
+
+.form-control:focus {
+  border-color: #000000;
+  box-shadow: none;
+}
+.sf-box-shadow {
+  box-shadow: 0px -2px 15px #878484;
+}
+
+.sf-contact-form input,
+textarea {
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+input {
+  height: 50px;
+  border: 1px solid #a8a3a3;
+}
+
+textarea {
+  height: 150px;
+  border: 1px solid #a8a3a3;
+}
+
+.sf-contact-img {
+  border-radius: 10px;
+  height: 400px;
+}
+
+/*************************************************************SHOPPING CART*************************************************************/
+
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  margin: auto;
+}
+
+.sf-shopcart-table th {
+  padding: 0px 40px 0px 40px;
+  height: 50px;
+  color: #fff;
+  background-color: #119744;
+}
+
+.sf-shopcart-data td {
+  height: 120px;
+  font-weight: 600;
+}
+
+.sf-delete-icon {
+  height: 25px;
+  width: 25px;
+}
+
+.sf-cart-total p {
+  font-weight: 700;
+  margin: 0px;
+}
+
+/* ************************************************************PRODUCT CARD*************************************************************/
+
+.sf-productcard {
+  width: 280px;
+  height: 350px;
+  text-align: center;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border: #fff;
+  cursor: pointer;
+}
+
+.sf-productcard p {
+  color: #119744;
+  font-weight: 700;
+  font-size: large;
+}
+
+.sf-productcard img {
+  width: 250px;
+  height: 180px;
+  object-fit: fill;
+  margin: 10px;
+}
+
+/* ************************************************************PRODUCT CARD*************************************************************/
+
+.pagination span {
+  margin: 50px 0px;
+  font-size: large;
+  font-weight: 500;
+  padding: 5px;
+  cursor: pointer;
+  border: #119744;
+  height: 40px;
+  width: 40px;
+  text-align: center;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.page-select {
+  background-color: #119744;
+  color: #fff;
+}
+
+.pagination-disable {
+  opacity: 0;
+}
+
+/* ************************************************************SINGLE PRODUCT*************************************************************/
+
+.sf-singleproduct-img img {
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border: #fff;
+  height: 400px;
+  width: 500px;
+  object-fit: fill;
+  border-radius: 10px;
+}
+
+.sf-singleproduct-details {
+  text-align: justify;
+}
+
+/* .sf-singleproduct-img img:hover {
+  transform: scale(1.1);
+} */
+
+/* .sf-singleproduct-details {
+  height: 400px;
+  width: 600px;
+} */

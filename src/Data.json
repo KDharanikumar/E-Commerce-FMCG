@@ -1,0 +1,321 @@
+[
+  {
+    "id": "1",
+    "name": "Mango",
+    "price": "100",
+    "description": "This is the Dummy Content this is only testing Purpose so not conceder this words.This is the Dummy Content this is only testing Purpose so not conceder this words.",
+    "image": "https://avatars.mds.yandex.net/i?id=59ac943efdf8235daf89941d67e39823-5234000-images-thumbs&n=13"
+  },
+
+  {
+    "id": "2",
+    "name": "Banana",
+    "price": "50",
+    "description": "This is the Dummy Content this is only testing Purpose so not conceder this words.This is the Dummy Content this is only testing Purpose so not conceder this words.",
+    "image": "https://avatars.mds.yandex.net/i?id=f9eea7097d92e46fd58049f117ac0162d12ac597-5875818-images-thumbs&n=13"
+  },
+
+  {
+    "id": "3",
+    "name": "Orange",
+    "price": "120",
+    "description": "This is the Dummy Content this is only testing Purpose so not conceder this words.This is the Dummy Content this is only testing Purpose so not conceder this words.",
+    "image": "https://avatars.mds.yandex.net/i?id=d1cab54db146f69a963f3291ad35d019-4055677-images-thumbs&n=13"
+  },
+
+  {
+    "id": "4",
+    "name": "Apple",
+    "price": "150",
+    "description": "This is the Dummy Content this is only testing Purpose so not conceder this words.This is the Dummy Content this is only testing Purpose so not conceder this words.",
+    "image": "https://avatars.mds.yandex.net/i?id=19b58c223eed4f5be18deccff4a6e6f7d21121d4-7011588-images-thumbs&n=13"
+  },
+
+  {
+    "id": "5",
+    "name": "Strawberry",
+    "price": "400",
+    "description": "This is the Dummy Content this is only testing Purpose so not conceder this words.This is the Dummy Content this is only testing Purpose so not conceder this words.",
+    "image": "https://avatars.mds.yandex.net/i?id=1207e4a2f0e0d746fb7627f9aa4d23087ac5683c-7882711-images-thumbs&n=13"
+  },
+
+  {
+    "id": "6",
+    "name": "Grapes",
+    "price": "140",
+    "description": "This is the Dummy Content this is only testing Purpose so not conceder this words.This is the Dummy Content this is only testing Purpose so not conceder this words.",
+    "image": "https://avatars.mds.yandex.net/i?id=61a245ea29c7f6aca021c05f9610943bb7082dd7-7998332-images-thumbs&n=13"
+  },
+
+  {
+    "id": "7",
+    "name": "Watermelon",
+    "price": "70",
+    "description": "This is the Dummy Content this is only testing Purpose so not conceder this words.This is the Dummy Content this is only testing Purpose so not conceder this words.",
+    "image": "https://avatars.mds.yandex.net/i?id=cd86cc5abca5b3c3f7f2135b15066659ca6d719f-3614575-images-thumbs&n=13"
+  },
+
+  {
+    "id": "8",
+    "name": "Guava",
+    "price": "80",
+    "description": "This is the Dummy Content this is only testing Purpose so not conceder this words.This is the Dummy Content this is only testing Purpose so not conceder this words.",
+    "image": "https://avatars.mds.yandex.net/i?id=dc44dce4fa51536eacc950de889c2dd9f7253211-5107576-images-thumbs&n=13"
+  },
+
+  {
+    "id": "9",
+    "name": "Carrot",
+    "price": "90",
+    "description": "This is the Dummy Content this is only testing Purpose so not conceder this words.This is the Dummy Content this is only testing Purpose so not conceder this words.",
+    "image": "https://avatars.mds.yandex.net/i?id=f8745072bd1c8dea2a66921e1345643edea007df-4079333-images-thumbs&n=13"
+  },
+
+  {
+    "id": "10",
+    "name": "Onion",
+    "price": "60",
+    "description": "This is the Dummy Content this is only testing Purpose so not conceder this words.This is the Dummy Content this is only testing Purpose so not conceder this words.",
+    "image": "https://avatars.mds.yandex.net/i?id=a9f897349af7828763c5f63762545160cc0080fb-3493887-images-thumbs&n=13"
+  },
+
+  {
+    "id": "11",
+    "name": "Tomato",
+    "price": "40",
+    "description": "This is the Dummy Content this is only testing Purpose so not conceder this words.This is the Dummy Content this is only testing Purpose so not conceder this words.",
+    "image": "https://avatars.mds.yandex.net/i?id=4cdeccf666d422fc469389599b949fe8-5163230-images-thumbs&n=13"
+  },
+
+  {
+    "id": "12",
+    "name": "Raddish",
+    "price": "30",
+    "description": "This is the Dummy Content this is only testing Purpose so not conceder this words.This is the Dummy Content this is only testing Purpose so not conceder this words.",
+    "image": "https://avatars.mds.yandex.net/i?id=e5297f7499a2f24f785abe0ae705b97456529492-4557590-images-thumbs&n=13"
+  },
+
+  {
+    "id": "13",
+    "name": "Brinjal",
+    "price": "70",
+    "description": "This is the Dummy Content this is only testing Purpose so not conceder this words.This is the Dummy Content this is only testing Purpose so not conceder this words.",
+    "image": "https://avatars.mds.yandex.net/i?id=b204b534b2a692b86f2893bfc39af2f040c9d951-8311686-images-thumbs&n=13"
+  },
+
+  {
+    "id": "14",
+    "name": "Cauliflower",
+    "price": "100",
+    "description": "This is the Dummy Content this is only testing Purpose so not conceder this words.This is the Dummy Content this is only testing Purpose so not conceder this words.",
+    "image": "https://avatars.mds.yandex.net/i?id=f7b5d686ce6822df82095672e46ed55f-3482022-images-thumbs&n=13"
+  },
+
+  {
+    "id": "15",
+    "name": "Cabbage",
+    "price": "50",
+    "description": "This is the Dummy Content this is only testing Purpose so not conceder this words.This is the Dummy Content this is only testing Purpose so not conceder this words.",
+    "image": "https://avatars.mds.yandex.net/i?id=07cd3dba6470af2470a881ab47e963e5-5195024-images-thumbs&n=13"
+  },
+
+  {
+    "id": "16",
+    "name": "Beetroot",
+    "price": "100",
+    "description": "This is the Dummy Content this is only testing Purpose so not conceder this words.This is the Dummy Content this is only testing Purpose so not conceder this words.",
+    "image": "https://avatars.mds.yandex.net/i?id=d13105277ea7e86babd1788e334d58f745593abb-6846484-images-thumbs&n=13"
+  },
+
+  {
+    "id": "17",
+    "name": "Maaza",
+    "price": "40",
+    "description": "This is the Dummy Content this is only testing Purpose so not conceder this words.This is the Dummy Content this is only testing Purpose so not conceder this words.",
+    "image": "https://avatars.mds.yandex.net/i?id=1097be9ecde86117b403a542979a2dc3-4417533-images-thumbs&n=13"
+  },
+
+  {
+    "id": "18",
+    "name": "Pepsi",
+    "price": "50",
+    "description": "This is the Dummy Content this is only testing Purpose so not conceder this words.This is the Dummy Content this is only testing Purpose so not conceder this words.",
+    "image": "https://avatars.mds.yandex.net/i?id=28527465dbeced6887b191e6f15f7103e14a5879-4429870-images-thumbs&n=13"
+  },
+
+  {
+    "id": "19",
+    "name": "Coca-Cola",
+    "price": "70",
+    "description": "This is the Dummy Content this is only testing Purpose so not conceder this words.This is the Dummy Content this is only testing Purpose so not conceder this words.",
+    "image": "https://avatars.mds.yandex.net/i?id=e92740110da039f1caea551d11cf271a79cd5401-7094423-images-thumbs&n=13"
+  },
+
+  {
+    "id": "20",
+    "name": "Limca",
+    "price": "30",
+    "description": "This is the Dummy Content this is only testing Purpose so not conceder this words.This is the Dummy Content this is only testing Purpose so not conceder this words.",
+    "image": "https://avatars.mds.yandex.net/i?id=1b63c68f98e03c4fc30aad98348645de-5667701-images-thumbs&n=13"
+  },
+
+  {
+    "id": "21",
+    "name": "Fanta",
+    "price": "100",
+    "description": "This is the Dummy Content this is only testing Purpose so not conceder this words.This is the Dummy Content this is only testing Purpose so not conceder this words.",
+    "image": "https://avatars.mds.yandex.net/i?id=1f3b2856ec192688a4d952fd189dd3d19b3214a9-4828405-images-thumbs&n=13"
+  },
+
+  {
+    "id": "22",
+    "name": "Mountain Dew",
+    "price": "100",
+    "description": "This is the Dummy Content this is only testing Purpose so not conceder this words.This is the Dummy Content this is only testing Purpose so not conceder this words.",
+    "image": "https://avatars.mds.yandex.net/i?id=aff09a029439a336b4d0c96d27b13e33db4a9b18-4495446-images-thumbs&n=13"
+  },
+
+  {
+    "id": "23",
+    "name": "Sprite",
+    "price": "100",
+    "description": "This is the Dummy Content this is only testing Purpose so not conceder this words.This is the Dummy Content this is only testing Purpose so not conceder this words.",
+    "image": "https://avatars.mds.yandex.net/i?id=910d373f5b027675ee22031b9cf6466215d2ad55-4450519-images-thumbs&n=13"
+  },
+
+  {
+    "id": "24",
+    "name": "7UP",
+    "price": "100",
+    "description": "This is the Dummy Content this is only testing Purpose so not conceder this words.This is the Dummy Content this is only testing Purpose so not conceder this words.",
+    "image": "https://avatars.mds.yandex.net/i?id=56a94f8d0bc0ac54c50cf71f427ac080f9cb4685-5498916-images-thumbs&n=13"
+  },
+
+  {
+    "id": "25",
+    "name": "Noodle",
+    "price": "80",
+    "description": "This is the Dummy Content this is only testing Purpose so not conceder this words.This is the Dummy Content this is only testing Purpose so not conceder this words.",
+    "image": "https://avatars.mds.yandex.net/i?id=f5b543279790209319148cd259bfbb4a08f3787f-5666966-images-thumbs&n=13"
+  },
+
+  {
+    "id": "26",
+    "name": "Pizza",
+    "price": "250",
+    "description": "This is the Dummy Content this is only testing Purpose so not conceder this words.This is the Dummy Content this is only testing Purpose so not conceder this words.",
+    "image": "https://avatars.mds.yandex.net/i?id=a083de9c2b8d0245b5a8fc82672fb36c2a4cb86a-5219773-images-thumbs&n=13"
+  },
+
+  {
+    "id": "27",
+    "name": "Pasta",
+    "price": "100",
+    "description": "This is the Dummy Content this is only testing Purpose so not conceder this words.This is the Dummy Content this is only testing Purpose so not conceder this words.",
+    "image": "https://avatars.mds.yandex.net/i?id=b85732d90c957da88f597ba5103da31f3599e9f9-4428735-images-thumbs&n=13"
+  },
+
+  {
+    "id": "28",
+    "name": "Veg Roll",
+    "price": "100",
+    "description": "This is the Dummy Content this is only testing Purpose so not conceder this words.This is the Dummy Content this is only testing Purpose so not conceder this words.",
+    "image": "https://avatars.mds.yandex.net/i?id=c4b69e66adfaac8189994a9978b33a0c-7065709-images-thumbs&n=13"
+  },
+
+  {
+    "id": "29",
+    "name": "Samosa",
+    "price": "100",
+    "description": "This is the Dummy Content this is only testing Purpose so not conceder this words.This is the Dummy Content this is only testing Purpose so not conceder this words.",
+    "image": "https://avatars.mds.yandex.net/i?id=bccd05d225f4f1817fea22ca02feed1b37c042bb-5233285-images-thumbs&n=13"
+  },
+
+  {
+    "id": "30",
+    "name": "Cakes",
+    "price": "100",
+    "description": "This is the Dummy Content this is only testing Purpose so not conceder this words.This is the Dummy Content this is only testing Purpose so not conceder this words.",
+    "image": "https://avatars.mds.yandex.net/i?id=39320317f3b35dec7f04e8b73d08070c786e7c5e-5232025-images-thumbs&n=13"
+  },
+
+  {
+    "id": "31",
+    "name": "Breads",
+    "price": "100",
+    "description": "This is the Dummy Content this is only testing Purpose so not conceder this words.This is the Dummy Content this is only testing Purpose so not conceder this words.",
+    "image": "https://avatars.mds.yandex.net/i?id=4c7b5054ad68ffe9f5cca408c6e0b886fe7a4d13-4766993-images-thumbs&n=13"
+  },
+
+  {
+    "id": "32",
+    "name": "Brurger",
+    "price": "100",
+    "description": "This is the Dummy Content this is only testing Purpose so not conceder this words.This is the Dummy Content this is only testing Purpose so not conceder this words.",
+    "image": "https://avatars.mds.yandex.net/i?id=83cef99a81aebecb2f573232f7bbcb6981c0939f-6887327-images-thumbs&n=13"
+  },
+
+  {
+    "id": "33",
+    "name": "Ice Creams",
+    "price": "100",
+    "description": "This is the Dummy Content this is only testing Purpose so not conceder this words.This is the Dummy Content this is only testing Purpose so not conceder this words.",
+    "image": "https://avatars.mds.yandex.net/i?id=c357b6d9df648a6de19c4d463197fc2bacf40dcb-8339915-images-thumbs&n=13"
+  },
+
+  {
+    "id": "34",
+    "name": "Chips",
+    "price": "100",
+    "description": "This is the Dummy Content this is only testing Purpose so not conceder this words.This is the Dummy Content this is only testing Purpose so not conceder this words.",
+    "image": "https://avatars.mds.yandex.net/i?id=9a88d797fdefe3d14cc959ff1cb100519042e380-2398611-images-thumbs&n=13"
+  },
+
+  {
+    "id": "35",
+    "name": "Cookies",
+    "price": "100",
+    "description": "This is the Dummy Content this is only testing Purpose so not conceder this words.This is the Dummy Content this is only testing Purpose so not conceder this words.",
+    "image": "https://avatars.mds.yandex.net/i?id=2696b62c3f0f4af565a8ccca4e68c2fddda6fc6b-5236430-images-thumbs&n=13"
+  },
+
+  {
+    "id": "36",
+    "name": "Donuts",
+    "price": "100",
+    "description": "This is the Dummy Content this is only testing Purpose so not conceder this words.This is the Dummy Content this is only testing Purpose so not conceder this words.",
+    "image": "https://avatars.mds.yandex.net/i?id=22bbdafccda61ff62a5813f3d3bbf7e7-4871215-images-thumbs&n=13"
+  },
+
+  {
+    "id": "37",
+    "name": "Dry Fruits",
+    "price": "100",
+    "description": "This is the Dummy Content this is only testing Purpose so not conceder this words.This is the Dummy Content this is only testing Purpose so not conceder this words.",
+    "image": "https://avatars.mds.yandex.net/i?id=655dc3b98a83023c7f62cce381fda3b1-5869446-images-thumbs&n=13"
+  },
+
+  {
+    "id": "38",
+    "name": "Sweets",
+    "price": "100",
+    "description": "This is the Dummy Content this is only testing Purpose so not conceder this words.This is the Dummy Content this is only testing Purpose so not conceder this words.",
+    "image": "https://avatars.mds.yandex.net/i?id=c7aa75e6ca75cac68c35933c09d6caff-4753661-images-thumbs&n=13"
+  },
+
+  {
+    "id": "39",
+    "name": "Choclates",
+    "price": "100",
+    "description": "This is the Dummy Content this is only testing Purpose so not conceder this words.This is the Dummy Content this is only testing Purpose so not conceder this words.",
+    "image": "https://avatars.mds.yandex.net/i?id=1d11ba6c0515671ab1ad16662ac8a6f55bd1c45c-8199736-images-thumbs&n=13"
+  },
+
+  {
+    "id": "40",
+    "name": "Salad",
+    "price": "100",
+    "description": "This is the Dummy Content this is only testing Purpose so not conceder this words.This is the Dummy Content this is only testing Purpose so not conceder this words.",
+    "image": "https://avatars.mds.yandex.net/i?id=adcadc67bfc8c144201d2b9c50b36e9afb3d23af-8238876-images-thumbs&n=13"
+  }
+]
