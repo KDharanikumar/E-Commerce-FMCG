@@ -1,6 +1,5 @@
 import Banner from "../Components/Banner";
 import SingleProductImg from "../Images/SingleProductImg.jpg";
-import Data from "../Data.json";
 
 const SingleProduct = () => {
   return (
